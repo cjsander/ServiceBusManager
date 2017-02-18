@@ -1,0 +1,10 @@
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\ServiceBusManagerTest.exe.config
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\ServiceBusManagerTest.exe
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\ServiceBusManagerTest.pdb
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\ServiceBusManager.dll
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\ServiceBusManager.pdb
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\obj\Debug\ServiceBusManagerTest.csprojResolveAssemblyReference.cache
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\obj\Debug\ServiceBusManagerTest.exe
+C:\Users\e047768\Documents\Visual Studio 2015\Projects\ServiceBusCommon\ServiceBusManagerTest\obj\Debug\ServiceBusManagerTest.pdb
